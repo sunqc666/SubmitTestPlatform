@@ -14,7 +14,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/sunqc666/STP.git
+git clone https://github.com/sunqc666/SubmitTestPlatform.git
 
 # 进入项目目录 或 用WebStorm等IDE工具导入前端项目
 cd STPService
