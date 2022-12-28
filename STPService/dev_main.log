@@ -1,0 +1,101 @@
+2022-11-16 20:19:58.036 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:82 - response：[{'weeks': '202243', 'note': 'ai', 'counts': 1}, {'weeks': '202243', 'note': '11', 'counts': 1}, {'weeks': '202244', 'note': '11', 'counts': 3}, {'weeks': '202244', 'note': 'ai', 'counts': 4}, {'weeks': '202244', 'note': '人员管理', 'counts': 4}, {'weeks': '202245', 'note': 'app1', 'counts': 1}, {'weeks': '202245', 'note': 'app2', 'counts': 1}, {'weeks': '202245', 'note': '电商品台', 'counts': 1}, {'weeks': '202245', 'note': 'maioshu', 'counts': 1}, {'weeks': '202245', 'note': 'ai', 'counts': 2}]
+2022-11-16 20:19:58.037 | INFO     | TPMService.apis.dashboard:get_request_stacked:58 - response:{'weeks': ['202243', '202244', '202245'], 'note': ['ai', '11', '人员管理', 'app1', 'app2', '电商品台', 'maioshu'], 'series': {'ai': [1, 4, 2], '11': [1, 3, 0], '人员管理': [0, 4, 0], 'app1': [0, 0, 1], 'app2': [0, 0, 1], '电商品台': [0, 0, 1], 'maioshu': [0, 0, 1]}}
+2022-11-17 11:36:10.445 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:66 - request：{'date': []}
+2022-11-17 11:36:10.449 | INFO     | TPMService.apis.dashboard:get_request_stacked:58 - response:{'weeks': ['202243', '202244', '202245'], 'note': ['ai', '11', '人员管理', 'app1', 'app2', '电商品台', 'maioshu'], 'series': {'ai': [1, 4, 2], '11': [1, 3, 0], '人员管理': [0, 4, 0], 'app1': [0, 0, 1], 'app2': [0, 0, 1], '电商品台': [0, 0, 1], 'maioshu': [0, 0, 1]}}
+2022-11-17 11:36:10.459 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:82 - response：[{'weeks': '202243', 'note': 'ai', 'counts': 1}, {'weeks': '202243', 'note': '11', 'counts': 1}, {'weeks': '202244', 'note': '11', 'counts': 3}, {'weeks': '202244', 'note': 'ai', 'counts': 4}, {'weeks': '202244', 'note': '人员管理', 'counts': 4}, {'weeks': '202245', 'note': 'app1', 'counts': 1}, {'weeks': '202245', 'note': 'app2', 'counts': 1}, {'weeks': '202245', 'note': '电商品台', 'counts': 1}, {'weeks': '202245', 'note': 'maioshu', 'counts': 1}, {'weeks': '202245', 'note': 'ai', 'counts': 2}]
+2022-11-17 11:36:10.668 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:66 - request：{'date': []}
+2022-11-17 11:36:10.668 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:66 - request：{'date': []}
+2022-11-17 11:36:10.671 | INFO     | TPMService.apis.dashboard:get_request_stacked:58 - response:{'weeks': ['202243', '202244', '202245'], 'note': ['ai', '11', '人员管理', 'app1', 'app2', '电商品台', 'maioshu'], 'series': {'ai': [1, 4, 2], '11': [1, 3, 0], '人员管理': [0, 4, 0], 'app1': [0, 0, 1], 'app2': [0, 0, 1], '电商品台': [0, 0, 1], 'maioshu': [0, 0, 1]}}
+2022-11-17 11:36:10.671 | INFO     | TPMService.apis.dashboard:get_request_stacked:58 - response:{'weeks': ['202243', '202244', '202245'], 'note': ['ai', '11', '人员管理', 'app1', 'app2', '电商品台', 'maioshu'], 'series': {'ai': [1, 4, 2], '11': [1, 3, 0], '人员管理': [0, 4, 0], 'app1': [0, 0, 1], 'app2': [0, 0, 1], '电商品台': [0, 0, 1], 'maioshu': [0, 0, 1]}}
+2022-11-17 11:36:10.675 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:82 - response：[{'weeks': '202243', 'note': 'ai', 'counts': 1}, {'weeks': '202243', 'note': '11', 'counts': 1}, {'weeks': '202244', 'note': '11', 'counts': 3}, {'weeks': '202244', 'note': 'ai', 'counts': 4}, {'weeks': '202244', 'note': '人员管理', 'counts': 4}, {'weeks': '202245', 'note': 'app1', 'counts': 1}, {'weeks': '202245', 'note': 'app2', 'counts': 1}, {'weeks': '202245', 'note': '电商品台', 'counts': 1}, {'weeks': '202245', 'note': 'maioshu', 'counts': 1}, {'weeks': '202245', 'note': 'ai', 'counts': 2}]
+2022-11-17 11:36:10.675 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:82 - response：[{'weeks': '202243', 'note': 'ai', 'counts': 1}, {'weeks': '202243', 'note': '11', 'counts': 1}, {'weeks': '202244', 'note': '11', 'counts': 3}, {'weeks': '202244', 'note': 'ai', 'counts': 4}, {'weeks': '202244', 'note': '人员管理', 'counts': 4}, {'weeks': '202245', 'note': 'app1', 'counts': 1}, {'weeks': '202245', 'note': 'app2', 'counts': 1}, {'weeks': '202245', 'note': '电商品台', 'counts': 1}, {'weeks': '202245', 'note': 'maioshu', 'counts': 1}, {'weeks': '202245', 'note': 'ai', 'counts': 2}]
+2022-11-17 11:39:02.574 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:66 - request：{'date': []}
+2022-11-17 11:39:02.576 | INFO     | TPMService.apis.dashboard:get_request_stacked:58 - response:{'weeks': ['202243', '202244', '202245'], 'note': ['ai', '11', '人员管理', 'app1', 'app2', '电商品台', 'maioshu'], 'series': {'ai': [1, 4, 2], '11': [1, 3, 0], '人员管理': [0, 4, 0], 'app1': [0, 0, 1], 'app2': [0, 0, 1], '电商品台': [0, 0, 1], 'maioshu': [0, 0, 1]}}
+2022-11-17 11:39:02.586 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:82 - response：[{'weeks': '202243', 'note': 'ai', 'counts': 1}, {'weeks': '202243', 'note': '11', 'counts': 1}, {'weeks': '202244', 'note': '11', 'counts': 3}, {'weeks': '202244', 'note': 'ai', 'counts': 4}, {'weeks': '202244', 'note': '人员管理', 'counts': 4}, {'weeks': '202245', 'note': 'app1', 'counts': 1}, {'weeks': '202245', 'note': 'app2', 'counts': 1}, {'weeks': '202245', 'note': '电商品台', 'counts': 1}, {'weeks': '202245', 'note': 'maioshu', 'counts': 1}, {'weeks': '202245', 'note': 'ai', 'counts': 2}]
+2022-11-18 18:57:13.499 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:66 - request：{'date': []}
+2022-11-21 10:25:27.599 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:66 - request：{'date': ['2022-11-01 00:00:00', '2022-11-30 00:00:00']}
+2022-11-21 10:27:33.587 | INFO     | TPMService.apis.getOffWork:getOffWorkTime:20 - request:{'startWorkTime': '2022-11-01 10:30:00', 'restTime': 2}
+2022-11-21 10:27:33.589 | INFO     | TPMService.apis.getOffWork:getOffWorkTime:28 - response:2022-11-01 20:30:00
+2022-11-21 10:28:25.656 | INFO     | TPMService.apis.getOffWork:getOffWorkTime:20 - request:{'startWorkTime': '2022-11-01 10:00:00', 'restTime': 2}
+2022-11-21 10:28:25.658 | INFO     | TPMService.apis.getOffWork:getOffWorkTime:28 - response:2022-11-01 20:00:00
+2022-11-21 10:28:43.315 | INFO     | TPMService.apis.getOffWork:getOffWorkTime:20 - request:{'startWorkTime': '2022-11-01 09:30:00', 'restTime': 2}
+2022-11-21 10:28:43.315 | INFO     | TPMService.apis.getOffWork:getOffWorkTime:28 - response:2022-11-01 19:30:00
+2022-11-21 10:29:07.421 | INFO     | TPMService.apis.getOffWork:getOffWorkTime:20 - request:{'startWorkTime': '2022-11-01 09:30:00', 'restTime': 1.5}
+2022-11-21 10:29:07.422 | INFO     | TPMService.apis.getOffWork:getOffWorkTime:28 - response:2022-11-01 19:00:00
+2022-11-21 10:29:16.687 | INFO     | TPMService.apis.getOffWork:getOffWorkTime:20 - request:{'startWorkTime': '2022-11-01 09:30:00', 'restTime': 1.5}
+2022-11-21 10:29:16.688 | INFO     | TPMService.apis.getOffWork:getOffWorkTime:28 - response:2022-11-01 19:00:00
+2022-11-24 17:02:42.159 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:66 - request：{'date': []}
+2022-11-24 17:02:45.561 | INFO     | TPMService.apis.user:info:48 - 登录用户：admin
+2022-11-24 17:02:45.906 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:66 - request：{'date': []}
+2022-11-24 17:02:51.176 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([('title', ''), ('keyCode', ''), ('pageSize', '10'), ('currentPage', '1')])
+2022-11-24 17:02:51.176 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([('title', ''), ('keyCode', ''), ('pageSize', '10'), ('currentPage', '1')])
+2022-11-24 17:02:51.194 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([])
+2022-11-24 17:02:51.194 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([])
+2022-11-24 17:03:01.395 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([])
+2022-11-24 17:03:01.395 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([])
+2022-11-24 17:03:01.397 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([('title', ''), ('keyCode', ''), ('pageSize', '10'), ('currentPage', '1')])
+2022-11-24 17:03:01.397 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([('title', ''), ('keyCode', ''), ('pageSize', '10'), ('currentPage', '1')])
+2022-11-24 17:03:26.169 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([])
+2022-11-24 17:03:26.169 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([])
+2022-11-24 17:03:32.223 | ERROR    | TPMService.apis.product:product_update:128 - {'version': ['数据版本不一致']}
+NoneType: None
+2022-11-24 17:03:32.223 | ERROR    | TPMService.apis.product:product_update:128 - {'version': ['数据版本不一致']}
+NoneType: None
+2022-11-24 17:03:37.314 | INFO     | TPMService.apis.user:info:48 - 登录用户：admin
+2022-11-24 17:03:37.314 | INFO     | TPMService.apis.user:info:48 - 登录用户：admin
+2022-11-24 17:03:37.512 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([('title', ''), ('keyCode', ''), ('pageSize', '10'), ('currentPage', '1')])
+2022-11-24 17:03:37.512 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([('title', ''), ('keyCode', ''), ('pageSize', '10'), ('currentPage', '1')])
+2022-11-24 17:03:37.513 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([])
+2022-11-24 17:03:37.513 | INFO     | TPMService.apis.product:product_search_page:39 - request:ImmutableMultiDict([])
+2022-11-24 17:51:57.744 | INFO     | TPMService.apis.user:info:48 - 登录用户：admin
+2022-11-24 17:51:57.744 | INFO     | TPMService.apis.user:info:48 - 登录用户：admin
+2022-11-24 17:52:30.835 | INFO     | TPMService.apis.testmanager:searchBykey:40 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-24 17:52:30.835 | INFO     | TPMService.apis.testmanager:searchBykey:40 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-24 17:52:43.400 | INFO     | TPMService.apis.testmanager:searchBykey:40 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-24 17:52:43.400 | INFO     | TPMService.apis.testmanager:searchBykey:40 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-24 17:52:47.574 | INFO     | TPMService.apis.testmanager:searchBykey:40 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-24 17:52:47.574 | INFO     | TPMService.apis.testmanager:searchBykey:40 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-24 17:52:54.536 | INFO     | TPMService.apis.testmanager:searchBykey:40 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-24 17:52:54.536 | INFO     | TPMService.apis.testmanager:searchBykey:40 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-24 19:28:12.527 | INFO     | TPMService.apis.dashboard:get_request_stacked_metadata:66 - request：{'date': []}
+2022-11-24 19:28:18.729 | INFO     | TPMService.apis.testmanager:searchBykey:41 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-24 19:28:48.257 | INFO     | TPMService.apis.testmanager:searchBykey:41 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 15:04:24.672 | INFO     | STPService.apis.dashboard:get_request_stacked_metadata:66 - request：{'date': []}
+2022-11-28 15:04:29.501 | INFO     | STPService.apis.testmanager:searchBykey:41 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 15:04:29.501 | INFO     | STPService.apis.testmanager:searchBykey:41 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 15:05:17.665 | INFO     | STPService.apis.testmanager:searchBykey:41 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 15:05:17.665 | INFO     | STPService.apis.testmanager:searchBykey:41 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 18:00:14.774 | INFO     | STPService.apis.testmanager:searchBykey:42 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 18:00:17.833 | INFO     | STPService.apis.testmanager:downloadFile:347 - fileName:b'\xe5\xa4\x9c\xe9\x97\xb4-\xe8\xb5\x84\xe6\x96\x99\xe7\xbc\x96\xe8\xbe\x91.jpg'
+2022-11-28 18:00:17.833 | INFO     | STPService.apis.testmanager:downloadFile:349 - /Users/sunqiucheng/PycharmProjects/TestProjectManagement-master/STPService/static
+2022-11-28 18:00:34.077 | INFO     | STPService.apis.testmanager:searchBykey:42 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 18:00:44.705 | INFO     | STPService.apis.testmanager:downloadFile:347 - fileName:b'\xe5\xa4\x9c\xe9\x97\xb4-\xe8\xb5\x84\xe6\x96\x99\xe7\xbc\x96\xe8\xbe\x91.jpg'
+2022-11-28 18:00:44.706 | INFO     | STPService.apis.testmanager:downloadFile:349 - /Users/sunqiucheng/PycharmProjects/TestProjectManagement-master/STPService/static
+2022-11-28 19:57:10.795 | INFO     | STPService.apis.testmanager:searchBykey:42 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 19:57:13.363 | INFO     | STPService.apis.testmanager:downloadFile:348 - fileName:工作居住证确认单.pdf
+2022-11-28 19:57:13.363 | INFO     | STPService.apis.testmanager:downloadFile:350 - /Users/sunqiucheng/PycharmProjects/TestProjectManagement-master/STPService/static
+2022-11-28 19:59:05.120 | INFO     | STPService.apis.testmanager:searchBykey:42 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 19:59:07.305 | INFO     | STPService.apis.testmanager:downloadFile:348 - fileName:工作居住证确认单.pdf
+2022-11-28 19:59:07.351 | INFO     | STPService.apis.testmanager:downloadFile:350 - /Users/sunqiucheng/PycharmProjects/TestProjectManagement-master/STPService/static
+2022-11-28 20:12:32.207 | INFO     | STPService.apis.dashboard:get_request_stacked_metadata:64 - request：{'date': []}
+2022-11-28 20:12:34.538 | INFO     | STPService.apis.testmanager:searchBykey:42 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 20:12:53.259 | INFO     | STPService.apis.testmanager:searchBykey:42 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 20:13:03.147 | INFO     | STPService.apis.testmanager:uploadFile:339 - 文件校验不通过！{'file': ['File does not have an approved extension: jpg, png, gif, pdf, zip']}
+2022-11-28 20:15:17.704 | INFO     | STPService.apis.testmanager:uploadFile:339 - 文件校验不通过！{'file': ['File does not have an approved extension: jpg, png, gif, pdf, zip']}
+2022-11-28 20:18:26.206 | INFO     | STPService.apis.testmanager:uploadFile:339 - 文件校验不通过！{'file': ['File does not have an approved extension: jpg, png, gif, pdf, zip']}
+2022-11-28 20:20:12.350 | INFO     | STPService.apis.testmanager:searchBykey:42 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 20:20:18.796 | INFO     | STPService.apis.testmanager:searchBykey:42 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 20:20:24.737 | INFO     | STPService.apis.testmanager:searchBykey:42 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 20:20:25.975 | INFO     | STPService.apis.testmanager:searchBykey:42 - {'pageSize': 10, 'currentPage': 1, 'productId': '', 'appId': '', 'tester': '', 'developer': '', 'pickTime': '', 'status': ''}
+2022-11-28 20:21:53.939 | INFO     | STPService.apis.testmanager:uploadFile:327 - /Users/sunqiucheng/PycharmProjects/TestProjectManagement-master/STPService/static
+2022-11-28 20:21:53.940 | INFO     | STPService.apis.testmanager:uploadFile:333 - file_name:夜间-主页.jpg
+2022-11-28 20:21:53.942 | INFO     | STPService.apis.testmanager:uploadFile:336 - {'fileName': '夜间-主页.jpg'}
+2022-11-28 20:22:08.998 | INFO     | STPService.apis.testmanager:uploadFile:339 - 文件校验不通过！{'file': ['File does not have an approved extension: jpg, png, gif, pdf, zip']}
+2022-11-28 20:22:51.307 | INFO     | STPService.apis.testmanager:uploadFile:339 - 文件校验不通过！{'file': ['File does not have an approved extension: jpg, png, gif, pdf, zip']}
+2022-11-28 20:22:57.624 | INFO     | STPService.apis.testmanager:uploadFile:339 - 文件校验不通过！{'file': ['File does not have an approved extension: jpg, png, gif, pdf, zip']}
+2022-11-28 20:23:06.746 | INFO     | STPService.apis.testmanager:uploadFile:339 - 文件校验不通过！{'file': ['File does not have an approved extension: jpg, png, gif, pdf, zip']}
+2022-11-28 20:23:31.903 | INFO     | STPService.apis.testmanager:uploadFile:339 - 文件校验不通过！{'file': ['File does not have an approved extension: jpg, png, gif, pdf, zip']}
+2022-11-28 20:24:30.383 | INFO     | STPService.apis.testmanager:uploadFile:339 - 文件校验不通过！{'file': ['File does not have an approved extension: jpg, png, gif, pdf, zip']}
+2022-11-28 20:24:38.078 | INFO     | STPService.apis.user:info:48 - 登录用户：qiucheng
+2022-11-28 20:26:25.082 | INFO     | STPService.apis.testmanager:uploadFile:339 - 文件校验不通过！{'file': ['File does not have an approved extension: jpg, png, gif, pdf, zip']}
+2022-11-29 14:23:55.878 | INFO     | STPService.apis.dashboard:get_request_stacked_metadata:64 - request：{'date': []}
